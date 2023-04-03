@@ -1,1 +1,60 @@
+/* Created by: Shyla Oommen
+* Created on: Mar 2023
+* This CSS file defines the style for index.html
+* ICS2O-Programming-Unit3-03-HTML-VolumeSphere
+*/
+
+body {
+  background-color: #a4ac86;
+}
+
+h5 {
+  background-color: #656d4a;
+  text-align: center;
+  border: 2px solid #faedcd;
+  color: white;
+  font-weight: bold;
+  padding-left: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+p {
+  background-color: #656d4a;
+  border: 2px solid #faedcd;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: white;
+  font-size: 115%;
+}
+
+form {
+  border: 2px solid #33415c;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: white;
+  font-size: 115%;
+}
+
+#answers {
+  background-color: #656d4a;
+  border: 2px solid #33415c;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: white;
+  font-size: 115%;
+}
+
+img {
+  float: right;
+}
 
