@@ -9,12 +9,12 @@
  * This function calculates the area of a trapezoid.
  */
 function calculateVolume () {
-  // input
+  // get radius from user
   let radius = parseFloat(document.getElementById('radius').value);
 
-  // process
+  // calculate volume
   let volume = (4/3 * Math.PI * radius ** 3);
 
-  // output
+  // display volume to user
   document.getElementById('volume').innerHTML = "The volume of a sphere with a radius of " + radius + " cm is " + volume.toFixed(2) + " cm<sup>3</sup>."
 }
